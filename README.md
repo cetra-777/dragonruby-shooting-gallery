@@ -11,3 +11,7 @@ Feel free to use the music, sound effects, and graphics in this project however 
 All assets are CC0 but attribution is appreciated.
 
 Please credit AutMouse Labs if you choose to credit.
+
+
+Copy of CC0 License:
+https://creativecommons.org/share-your-work/public-domain/cc0/
